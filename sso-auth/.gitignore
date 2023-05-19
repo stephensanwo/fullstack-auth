@@ -1,0 +1,10 @@
+env
+.env
+__pycache__
+node_modules
+.idea
+.pytest_cache
+*.swp
+package-lock.json
+.pytest_cache
+*.egg-info
